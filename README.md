@@ -1,5 +1,7 @@
 # <center> Hi, I am Max 👋 </center>
 
+I'm a frontend developer. Also I'm student of computer science.
+
 ## Free-time projects
 
 ### [Three.js Mapper](https://github.com/maksymilian-lakomy/three-js-map-vue-js-redo)
