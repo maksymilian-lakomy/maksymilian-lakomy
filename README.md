@@ -16,7 +16,7 @@ Stack: **`TypeScript`** / **`Three.js`**
 
 ### [Pokedex](https://github.com/maksymilian-lakomy/pokedex)
 
-Once a recruitment task - now a perfect and nice to an eye benchmark for my skills, that I like to look back on from time to time.
+Once a recruitment task for Allegro - now a perfect and nice to an eye benchmark for my skills, that I like to look back on from time to time.
 
 I'm currently rewriting it, mostly because of the ineffective API calls and the over engineered structure. You can find the pre-rework version **[here](http://pokedex.maksymilianlakomy.pl)** 👈
 
