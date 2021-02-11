@@ -8,7 +8,7 @@ I'm a frontend developer. Also I'm student of computer science.
 
 What is hiding under this ambigious name is a library that is designed for creating any map that you want from supplied _chunks_. Main goal of this project was to provide a sollution that will render hundreds of thousands markers inside a browser without big performance impact.
 
-It was primarly written as a part of a development tool for [The Chronicles of Myrtana](https:/kronikimyrtany.pl/index_en.html) modification.
+It was primarly written as a part of a development tool for [The Chronicles of Myrtana](https://kronikimyrtany.pl/en) modification.
 
 **This library is still under development.**
 
